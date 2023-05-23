@@ -19,6 +19,7 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JayantGoel001&icon=0&color=0)](https://visitcount.itsvg.in)
+[![]<p align="center">
+  <img src="https://gpvc.arturio.dev/JayantGoel001" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
