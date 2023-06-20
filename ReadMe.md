@@ -41,6 +41,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-android&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-android" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif" />
+<p align="left"> <img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif" />
 
 <p align="left"> <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
