@@ -37,7 +37,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravibodara007 &label=Profile%20views&color=0e75b6&style=flat" alt="ravibodara007" /> </p>
+[![](https://visitcount.itsvg.in/api?id=ravibodara007&icon=5&color=6)](https://visitcount.itsvg.in)
+
 <img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif" />
 
 ![Image of me](https://github.com/WRaviBodara/wjimmycook/blob/master/me.gif?raw=true)
