@@ -20,7 +20,7 @@
 
 ✔ Pronouns: ***TeamMaker***😉 <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_boy_with_no_heart_007_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-bodara-913a71274/) 
 
@@ -38,7 +38,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<img align="left" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif" />
+<img align="left" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif" /><br>
 
 [![](https://visitcount.itsvg.in/api?id=ravibodara007&icon=5&color=6)](https://visitcount.itsvg.in)
 
