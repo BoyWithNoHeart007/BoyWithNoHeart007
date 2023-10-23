@@ -38,9 +38,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+
+<img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif" />
+
 [![](https://visitcount.itsvg.in/api?id=ravibodara007&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<img align="left" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
